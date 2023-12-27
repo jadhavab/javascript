@@ -17,7 +17,7 @@ var gender="Male"
 var isMarried="No"
 console.log("firstName:",firstName);
 console.log("lastName:",lastName);
-console.log("lastName:",age);
+console.log("age:",age);
 console.log("address:",address);
 console.log("pinCod:",pinCode);
 console.log("gender:",gender);
