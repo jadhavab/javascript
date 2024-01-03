@@ -14,7 +14,8 @@ console.log(`~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`)
  function AnuglarDeveloper(){
     var result="I am Angular Developer"
     console.log(`lengh of string is= ${result.length}`);
-    console.log( `word count is ${ a= result.split(" ").length}` ); 
+    var a =result.split(" ").length
+    console.log(`total no of word ${ a} `);
 console.log(`division of length and total no of word =${result.length /a }`);
 console.log(`multiplication of length and total no of word =${result.length * a }`);
  } 
